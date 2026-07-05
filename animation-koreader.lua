@@ -1,6 +1,5 @@
 --[[--
-ALL-IN-ONE screen animation patch for e-ink devices (Cleaned & Optimized).
-Default Linear Wipe animation engine for transitions and page turns.
+Animaciones para koreader
 --]]--
 
 local Device = require("device")
